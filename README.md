@@ -20,4 +20,4 @@ Run it locally by opening `index.php` in a browser.
 Pull requests are welcome. For major changes, open an issue first.
 
 ---
-Developed by **[Your Name]** 🚀
+Developed by Jeffrey Isibor 🚀
